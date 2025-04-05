@@ -14,3 +14,10 @@ Assignments of Tutedude Python Course
 **Task 1** - Check if a Number is Even or Odd - Take an integer input from the user. Check whether the number is even or odd using an 'if-else' statement and display the result.
 
 **Task 2** - Sum of Integers from 1 to 50 Using a Loop - This program uses a 'for' loop to iterate over numbers from 1 to 50, calculates the sum of all integers in this range, and displays the final result.
+
+
+**Module 4: Functions & Modules in Python**
+
+**Task 1** - Calculate Factorial Using a Function - Write a Python program that takes a number as an argument and calculates its factorial using a loop or recursion and returns the calculated factorial.
+
+**Task 2** - Using the Math Module for Calculations - Write a Python program that asks the user for a number as input and uses the math module to calculate square root, natural logarithm (log base e) and sine of the number (in radians).
