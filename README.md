@@ -21,3 +21,9 @@ Assignments of Tutedude Python Course
 **Task 1** - Calculate Factorial Using a Function - Write a Python program that takes a number as an argument and calculates its factorial using a loop or recursion and returns the calculated factorial.
 
 **Task 2** - Using the Math Module for Calculations - Write a Python program that asks the user for a number as input and uses the math module to calculate square root, natural logarithm (log base e) and sine of the number (in radians).
+
+**Module 5: Files, Exceptions, and Errors in Python**
+
+**Task 1** - Read a File and Handle Errors - Write a Python program that opens and reads a text file named sample.txt, prints its content line by line and handles errors gracefully if the file does not exist.
+
+**Task 2** - Write and Append Data to a File - Write a Python program that takes user input and writes it to a file named output.txt. Also appends additional data to the same file and reads and displays the final content of the file.
