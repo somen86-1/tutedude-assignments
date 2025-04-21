@@ -5,7 +5,7 @@
 
 num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-first_five = num1[:5]
+first_five = num1[0:5]
 
 print(f"Original List: {num1}")
 
